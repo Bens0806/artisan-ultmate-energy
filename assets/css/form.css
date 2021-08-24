@@ -1,0 +1,9 @@
+.form-style
+{
+  display: inherit;
+}
+
+.form-class {
+  display: inherit;
+  margin-right: 100PX;
+}
